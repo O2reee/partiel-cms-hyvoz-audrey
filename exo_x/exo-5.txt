@@ -1,0 +1,5 @@
+SELECT lastName.id 
+FROM User 
+JOIN Car.id ON User.id = voitures.id_user 
+WHERE Car.couleur = 'rouge' 
+ORDER BY User.lastName DESC;

@@ -1,0 +1,1 @@
+Un CMS est un logiciel qui permet de créer, modifier et publier du contenu en ligne, sans avoir besoin de connaissances technique en programmation ou en développement web.
